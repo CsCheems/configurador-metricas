@@ -1,0 +1,46 @@
+{
+    "config":[
+        {
+            "id": "usuarioTwitch",
+            "label": "Usuario de Twitch",
+            "type": "text",
+            "defaultValue": "",
+            "group": "Usuario"
+        },
+        {
+            "id": "mostrarVistas",
+            "label": "Mostrar Vistas",
+            "type": "checkbox",
+            "defaultValue": true,
+            "group": "Visual"
+        },
+        {
+            "id": "mostrarSubs",
+            "label": "Mostar Subs",
+            "type": "checkbox",
+            "defaultValue": true,
+            "group": "Visual"
+        },
+        {
+            "id": "mostrarSeguidores",
+            "label": "Mostrar Seguidores",
+            "type": "checkbox",
+            "defaultValue": true,
+            "group": "Visual"
+        },
+        {
+            "id": "tamañoFuente",
+            "label": "Tamaño de Fuente",
+            "type": "number",
+            "defaultValue": "40",
+            "group": "Visual"
+        },
+        {
+            "id": "widgetColor",
+            "label": "Color de Widget",
+            "type": "color",
+            "defaultValue": "#ffffff",
+            "group": "Visual"
+        }
+    ]
+}
